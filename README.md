@@ -52,7 +52,8 @@ sentiment label (Positive/Negative)
 
 confidence score
 
-🛠 Steps to Install & Run the Project
+
+ Steps to Install & Run the Project:
 1. Install Python
 
 Make sure Python 3.x is installed on your system.
@@ -132,7 +133,5 @@ Add Neutral sentiment classification
 
 Use advanced models like Logistic Regression or SVM
 
-
  Conclusion:
-
 This project demonstrates how machine learning and simple NLP techniques can be used to classify text sentiment. It is lightweight, easy to understand, and ideal for beginners learning AI/ML concepts.
